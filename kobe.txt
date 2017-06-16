@@ -1,0 +1,1 @@
+Protein_ID	Accession_ID	Description	e-Value	UniProt_ID	Pfam_Results	Prosite_Results	Comments
