@@ -5,3 +5,6 @@ Output: TXt file to output Tabular data from Uniprot, BLAST, Pfam, PROSITE
 
 To run:
 python NEXUS.py <input file> <output file>
+
+To run on sample data, use:
+python NEXUS.py <combined.xml> <KOBE.txt>
