@@ -10,8 +10,8 @@ pip install xml.dom
 pip install bs4
 pip install bioservices
 
-To run:
+**To run:**
 python NEXUS.py <input file> <output file>
 
-To run on sample data, use:
+**To run on sample data, use:**
 python NEXUS.py <sample.xml> <kobe.txt>
